@@ -2,6 +2,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sannankanwar&color=blueviolet)
 
 👋 **Hello!** I'm Sannan – a Bioengineering student at NTU Singapore merging AI innovation with education and healthcare technology.  
+**Looking for part time/full time internships!**
 
 ### 🚀 What I'm About  
 - **Full-Stack Development** | **Agentic AI Workflows** | **EdTech Innovation**  
