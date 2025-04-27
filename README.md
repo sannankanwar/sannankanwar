@@ -32,7 +32,8 @@ Seeking collaborators for **BioLearn** – a cross-platform learning tool for un
 
 **Looking For**:  
 - 🎨 UI/UX Designers (Figma/React Native experience)  
-- 🤖 Technical Co-Founders (Python/ML expertise)  
+- 🤖 Technical Co-Founders (Python/ML expertise)
+- Subject Matter Experts
 
 ### 📬 Connect With Me  
 - Telegram: [@sannankanwar](https://t.me/sannankanwar)  
