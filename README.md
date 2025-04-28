@@ -6,9 +6,8 @@
 
 ### 🚀 What I'm About  
 - **Full-Stack Development** | **Agentic AI Workflows** | **EdTech Innovation**  
-- Currently:  
-  - 📚 Mastering **Bioelectricity** (neural signaling, ECG analysis, membrane potentials)  
-  - 💻 Building AI tools for **biosignal processing** and medical device prototyping  
+- Currently:   
+  - 💻 Building AI tools for medical device prototyping  
   - 🔬 Applying ML to healthcare data through Python/TensorFlow  
 
 ### 🌟 Key Interests  
@@ -17,15 +16,9 @@
 - **Bioengineering**: Designing low-cost medical devices with embedded systems  
 
 ### 🤝 Let's Build Together!  
-Seeking collaborators for **BioLearn** – a cross-platform learning tool for university bioelectricity modules (with scalability for other STEM subjects).  
+Seeking collaborators for **BioLearn** – a cross-platform learning tool for university bioengineering modules (with scalability for other STEM subjects).  
 
-**Current Vision**:  
-✅ *Three Core Pillars*:  
-   - **Smart Assessment**: AI-powered quizzes with adaptive difficulty  
-   - **3D Visualizations**: Interactive simulations of action potentials & EEG patterns  
-   - **Virtual Tutor**: Gemini API-driven explanations and problem-solving guidance  
-
-✅ **Tech Stack**:  
+  **Tech Stack**:  
    - Frontend: React Native (cross-platform mobile/web)  
    - Backend: Flask/Python + Gemini API integration  
    - Data: TensorFlow for biosignal pattern recognition  
